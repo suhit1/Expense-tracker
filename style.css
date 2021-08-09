@@ -1,0 +1,65 @@
+body {
+  text-align: center;
+}
+
+.heading1 {
+  font: 600;
+  font-size: 50px;
+}
+
+.heading2 {
+  font: 900;
+  color: rgb(12, 141, 12);
+  font-size: 30px;
+}
+
+.enter_name {
+  margin-left: -30%;
+}
+
+.name {
+  width: 50%;
+}
+
+.whole_div {
+  margin-left: 30%;
+}
+
+.date_amount {
+  margin-top: 20px;
+  display: flex;
+}
+
+.date {
+  width: 320px;
+}
+
+.amount {
+  width: 320px;
+}
+
+.button {
+  margin-left: -30%;
+  margin-top: 20px;
+}
+
+.add_item {
+  background-color: rgb(12, 141, 12);
+  color: white;
+  width: 80px;
+  height: 50px;
+}
+
+.table {
+  margin-top: 20px;
+  margin-left: 20%;
+}
+
+th {
+  padding-right: 200px;
+}
+
+.delete {
+  background-color: yellowgreen;
+  color: white;
+}
